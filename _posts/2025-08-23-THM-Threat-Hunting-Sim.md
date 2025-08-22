@@ -63,3 +63,22 @@ Based on your findings and the reconstructed attack chain, compile a final Threa
 | Traffic Behavior | Outbound file download to %APPDATA% via PowerShell |
 
 -------
+
+### Dive Into SIEM
+
+<img width="2149" height="394" alt="image" src="https://github.com/user-attachments/assets/02eedd91-168f-4f77-86af-ae77e3be7648" />
+
+Let's dive into SIEM to check what actually happened!
+
+In here, we will be using Splunk SIEM.
+
+<img width="2878" height="1482" alt="image" src="https://github.com/user-attachments/assets/3ed4eb2f-0c15-4b6e-81c9-e0495b5ea9c2" />
+
+
+
+
+
+
+
+
+
