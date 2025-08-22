@@ -1,4 +1,4 @@
-## 
+## TryHackMe: Threat Hunting Simulation Walkthrough
 
 ### Threat intel:
 
